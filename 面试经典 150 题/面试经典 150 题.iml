@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/169. 多数元素" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26. 删除有序数组中的重复项" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27. 移除元素" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/80. 删除有序数组中的重复项 II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88. 合并两个有序数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189. 轮转数组" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
